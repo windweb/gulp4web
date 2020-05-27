@@ -1,6 +1,6 @@
 # gulp4web
 
-We use Gulp (Gulp is a task manager and project collector) to optimize web development.
+We will use Gulp (Gulp is a task manager and project compiler) to optimize web development.
 
 We automate: 
 - converting and connecting fonts. 

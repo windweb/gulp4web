@@ -1,0 +1,27 @@
+{
+  "name": "gulp4web",
+  "version": "1.0.0",
+  "description": "We will use Gulp (Gulp is a task manager and project compiler) to optimize web development.",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windweb/gulp4web.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp4web"
+  ],
+  "author": "Aidarov Kirill / github@aidarov.ru / https://aidarov.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windweb/gulp4web/issues"
+  },
+  "homepage": "https://github.com/windweb/gulp4web#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  }
+}
